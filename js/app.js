@@ -9,6 +9,7 @@ const userScroll = () =>{
         }
         else{
             navBar.classList.remove('bg-dark');
+navBar.classList.remove('navbar-transparent');
             
         }
     });
